@@ -1,0 +1,10 @@
+<services>
+    <service name="obs_scm">
+        <param name="scm">git</param>
+        <param name="url">git://github.com/danidoni/hello_world_with_no_workflows_file.git</param>
+        <param name="extract">hello_world.spec</param>
+        <param name="extract">franz.spec</param>
+        <param name="extract">hans.spec</param>
+        <param name="revision">main</param>
+    </service>
+</services>
